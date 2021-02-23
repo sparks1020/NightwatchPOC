@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30309.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SyllabusZipSort", "SyllabusZipSort\SyllabusZipSort.csproj", "{9E9C8DDE-C487-49E0-8C83-3312445B99DB}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SyllabusZip", "..\SyllabusZip\SyllabusZip\SyllabusZip\SyllabusZip.csproj", "{A9A9FD9B-40EF-427A-B9E5-BBB06FAD5DF2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9E9C8DDE-C487-49E0-8C83-3312445B99DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9E9C8DDE-C487-49E0-8C83-3312445B99DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9E9C8DDE-C487-49E0-8C83-3312445B99DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9E9C8DDE-C487-49E0-8C83-3312445B99DB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A9A9FD9B-40EF-427A-B9E5-BBB06FAD5DF2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A9A9FD9B-40EF-427A-B9E5-BBB06FAD5DF2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A9A9FD9B-40EF-427A-B9E5-BBB06FAD5DF2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A9A9FD9B-40EF-427A-B9E5-BBB06FAD5DF2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {77394BC6-A4C1-4DFB-BA22-3CA908F1512E}
+	EndGlobalSection
+EndGlobal
