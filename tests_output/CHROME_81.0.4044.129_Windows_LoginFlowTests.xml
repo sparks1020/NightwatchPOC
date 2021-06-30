@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites errors="1"
+            failures="0"
+            tests="1">
+
+  <testsuite name="LoginFlowTests"
+    errors="1" failures="0" hostname="" id="" package="LoginFlowTests" skipped="0"
+    tests="1" time="2.287" timestamp="">
+  
+    <testcase name="SignUpNewPhotoHubAccount_CreateNewTeam_LogInSuccess" classname="LoginFlowTests" time="2.287" assertions="0">
+      <error message="Error while running &#34;setValue&#34; command: &#34;Error: setValue method expects 3 (or 4 if using implicit &#34;css selector&#34; strategy) arguments - 2 given.
+&#34;" type="error">Error
+    at Object.SignUpNewPhotoHubAccount_CreateNewTeam_LogInSuccess (C:\Dev\photohub\Test\LoginFlowTests.js:36:14)
+    at Context.call (C:\Dev\photohub\node_modules\nightwatch\lib\testsuite\context.js:379:35)
+    at TestCase.run (C:\Dev\photohub\node_modules\nightwatch\lib\testsuite\testcase.js:49:31)
+    at Runnable.__runFn (C:\Dev\photohub\node_modules\nightwatch\lib\testsuite\index.js:374:80)
+    at Runnable.run (C:\Dev\photohub\node_modules\nightwatch\lib\testsuite\runnable.js:123:21)
+    at TestSuite.createRunnable (C:\Dev\photohub\node_modules\nightwatch\lib\testsuite\index.js:441:33)
+    at TestSuite.handleRunnable (C:\Dev\photohub\node_modules\nightwatch\lib\testsuite\index.js:446:18)
+    at C:\Dev\photohub\node_modules\nightwatch\lib\testsuite\index.js:374:21
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async DefaultRunner.runTestSuite (C:\Dev\photohub\node_modules\nightwatch\lib\runner\test-runners\default.js:68:7)</error>
+    
+    </testcase>
+  
+
+  
+    <system-err>
+      [0;31m  Error: Error while running &#34;setValue&#34; command: &#34;Error: setValue method expects 3 (or 4 if using implicit &#34;css selector&#34; strategy) arguments - 2 given.
+  &#34;[0m
+[0;90m       at Object.SignUpNewPhotoHubAccount_CreateNewTeam_LogInSuccess (C:\Dev\photohub\Test\LoginFlowTests.js:36:14)
+       at processTicksAndRejections (internal/process/task_queues.js:97:5)[0m
+    </system-err>
+  
+
+  
+  </testsuite>
+</testsuites>
